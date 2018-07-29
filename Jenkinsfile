@@ -2,7 +2,7 @@ def testString = "this is a test string"
 
 def label = "masterNode"
 
-def repoURL = "https://github.com/michaellady/testRepo"
+def repoURL = "https://github.com/jenkinstestuserdevop/testRepo"
 
 def branch = "develop"
 
